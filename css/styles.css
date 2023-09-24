@@ -1,0 +1,19 @@
+#timer{
+    margin: 50px 0 30px;
+    text-align: center;
+    font-size:bold;
+    font-size: 60px;
+}
+
+#buttons{
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.watch_title{
+    text-align: center;
+    font-size:bold;
+    font-size: 30px;
+}
